@@ -1,7 +1,6 @@
-# Checksum
+# My checksum algorithm
 Java beginner course task: writing a checksum algorithm
 
-<h1>My checksum algorithm</h1>
 This is an exercise that I did during my university course in Java in 2019. I'm not an expert in checksum algorithms, this was one of many tasks and the goal was to practice functions, loops and  arrays. So this is my interpretation of the task. I choose to have this on GitHub because I want to have some documentation of my learning.
 
 <h3>Background</h3> Checksum is a method that is used to verify that a bankaccount number is correct. The checksum is calculated according to this formula:<br>
