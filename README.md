@@ -1,4 +1,4 @@
-# newbie-lab
+# Checksum
 Java beginner course task: writing a checksum algorithm
 
 <h1>My checksum algorithm</h1>
